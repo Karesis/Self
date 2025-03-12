@@ -15,7 +15,7 @@
 
 ```bash
 # 克隆项目
-git clone [项目地址]
+git clone https://github.com/Karesis/Self.git
 
 # 安装依赖
 pip install -r requirements.txt
